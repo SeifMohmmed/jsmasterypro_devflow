@@ -64,15 +64,6 @@
     border-color: var(--color-gray-200, currentcolor);
   }
 }
-@layer base {
-  *,
-  ::after,
-  ::before,
-  ::backdrop,
-  ::file-selector-button {
-    border-color: var(--color-gray-200, currentcolor);
-  }
-}
 
 @utility background-light850_dark100 {
   @apply bg-light-850 dark:bg-dark-100;

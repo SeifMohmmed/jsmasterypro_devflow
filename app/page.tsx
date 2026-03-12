@@ -3,9 +3,7 @@ import React from "react";
 const Home = () => {
   return (
     <>
-      <div>
-        <h1 className="h1-bold">Tailwind CSS is FUN !</h1>
-      </div>
+      <h1 className="h1-bold">Welcome to world of Next.js</h1>
     </>
   );
 };
